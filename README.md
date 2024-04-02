@@ -2,7 +2,9 @@
 
 Hex Shop is a simple and intuitive e-commerce website where users can purchase a wide range of hex colours. This project is built using Angular, TypeScript, RxJS, and utilises a PostgreSQL database to showcase CRUD API skills. Additionally, it incorporates user authentication for a personalised shopping experience.
 
-I created this project so I could better understand REST API's and also further my understanding on Angular by creating a full-stack project.
+I created this project so I could better understand REST API's and also further my understanding of Angular by creating a full-stack project.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
 ## Table of Contents
 
