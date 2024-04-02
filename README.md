@@ -42,7 +42,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Screenshots
 
 ![Home Page](./screenshots/home.png)
-![Hex Colour Details](./screenshots/hex-color-details.png)
+![Hex Colour Details](./screenshots/hex-colour-details.png)
 ![Shopping Cart](./screenshots/shopping-cart.png)
 ![Order History](./screenshots/order-history.png)
 
